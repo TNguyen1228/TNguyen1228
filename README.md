@@ -7,7 +7,7 @@
   <!-- Dynamic Typing Subtitle -->
 
   <a href="https://github.com/TNguyen1228">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;LLM+%7C+RAG+%7C+Speech+AI;Building+AI+systems+from+data+to+deployment" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;LLM+%7C+RAG;Building+AI+systems+from+data+to+deployment" alt="Typing SVG" />
   </a>
 
   <p align="center">
