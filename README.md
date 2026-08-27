@@ -2,7 +2,7 @@
 
   <!-- Header Banner -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Hi%20there,%20I'm%20Tuan Nguyen%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Hi%20there,%20I'm%20Tuan%20Nguyen%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%"/>
 
   <!-- Dynamic Typing Subtitle -->
 
