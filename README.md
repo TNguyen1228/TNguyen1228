@@ -91,7 +91,7 @@ Background in Data Science with a focus on data processing, machine learning and
 ---
 
 ## 📊 GitHub Activity & Metrics
-
+![](https://komarev.com/ghpvc/?username=TNguyen1228&style=flat-square)
 <div align="center">
 
 
